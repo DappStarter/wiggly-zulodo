@@ -1,0 +1,8 @@
+{
+    "name": "Apple",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true
+    }
+}
